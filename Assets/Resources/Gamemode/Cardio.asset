@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 86863ce8ba76c1049bf92bbdd3744ad0, type: 3}
+  m_Name: Cardio
+  m_EditorClassIdentifier: 
+  gamemodeName: Cardiovascular System
+  tracks:
+  - {fileID: 11400000, guid: a6097d8d3fe13434d8c48d191e3333fa, type: 2}
+  - {fileID: 11400000, guid: 713872cc5d110e441a3e1aa4dfbd3df9, type: 2}
+  - {fileID: 11400000, guid: eb002a0bf4aabce40a8ccfbb47dca412, type: 2}
